@@ -1,6 +1,6 @@
 This was the Final Project I submitted for my Geospatial Engineering Course. 
 
-# Rise in Anti-Vax-and Mumps Choropleth Analysis
+# Rise in Anti-Vax and Mumps Choropleth Analysis
 
 - Measles, mumps, rubella have been making a comeback in the recent years.  The story I am attempting to uncover is whether the number of cases is correlated with the number of people refusing to vaccinate their children, with recent conspiracy hypes.
 
